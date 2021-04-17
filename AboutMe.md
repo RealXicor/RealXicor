@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @RealXicor
-- 👀 I like to play around with c++ & python for now..
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on different python/c++ projectes :)
+- 👀 I like to play around with C++ & Python for now..
+- 🌱 I’m currently learning Python!
+- 💞️ I’m open to collaborate on different Python/C++ projects :)
 - 📫 How to reach me @RealXicor on telegram.
+- PS: I'm still a Software Engineering student :)
