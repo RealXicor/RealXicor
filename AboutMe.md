@@ -5,4 +5,4 @@
 - 📫 How to reach me? Email me at okayumair85@gmail.com
 - PS: I'm still a Software Engineering student :)
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealXicor)]
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealXicor&show_icons=true&theme=midnight-purple)
