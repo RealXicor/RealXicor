@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RealXicor
-- 👀 I like to play around with C++, C# & Python for now..
-- 🌱 I’m currently learning Web Development.
+- 👀 I like to play around with C++, C#, HTML/CSS/JS & Python for now..
+- 🌱 I’m currently learning PHP.
 - 💞️ I’m open to collaborate on different Python, C++, C# projects :)
 - 📫 How to reach me? Email me at okayumair85@gmail.com
 - PS: I'm still a Software Engineering student :)
